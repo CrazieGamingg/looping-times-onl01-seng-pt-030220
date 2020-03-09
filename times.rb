@@ -1,4 +1,4 @@
-# using_times puts out phrase 'Wingardium Leviosa'
+Wingardium Leviosa = 7
  7.times do
 	puts "Wingardium Leviosa"
 end
