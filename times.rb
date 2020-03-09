@@ -1,4 +1,5 @@
-def 7.times do
+def 
+  7.times do
 	"Wingardium Leviosa"
 end
 
